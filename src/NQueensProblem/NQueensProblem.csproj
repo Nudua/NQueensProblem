@@ -11,4 +11,9 @@
     <Folder Include="Factory\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="$(AssemblyName).UnitTests"/>
+    <InternalsVisibleTo Include="$(AssemblyName).Benchmarks"/>
+  </ItemGroup>
+
 </Project>
