@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{309A51CD-164
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C86BA979-9290-42CF-B810-AD350DDA4C8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueensProblem.Benchmarks", "src\NQueensProblem.Benchmarks\NQueensProblem.Benchmarks.csproj", "{108EE2F0-78AB-47EA-8CE6-315A56899ED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{23E0F036-4DDE-47F9-8EAF-FB35C58B453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E0F036-4DDE-47F9-8EAF-FB35C58B453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E0F036-4DDE-47F9-8EAF-FB35C58B453F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108EE2F0-78AB-47EA-8CE6-315A56899ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108EE2F0-78AB-47EA-8CE6-315A56899ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108EE2F0-78AB-47EA-8CE6-315A56899ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108EE2F0-78AB-47EA-8CE6-315A56899ED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +51,7 @@ Global
 		{B607FB80-A930-4953-81C5-DEC5B7CE7D19} = {309A51CD-164D-4076-B336-35F252245B6F}
 		{E860C5BA-04D8-45DD-ADDB-C4EBDAE3DAC8} = {309A51CD-164D-4076-B336-35F252245B6F}
 		{23E0F036-4DDE-47F9-8EAF-FB35C58B453F} = {C86BA979-9290-42CF-B810-AD350DDA4C8D}
+		{108EE2F0-78AB-47EA-8CE6-315A56899ED6} = {309A51CD-164D-4076-B336-35F252245B6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {35C6AC3A-BC07-4C25-8099-EB2FA11AE8E6}
