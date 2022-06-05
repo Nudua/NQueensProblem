@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NQueensProblem.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-s 8"
+    }
+  }
+}
